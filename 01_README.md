@@ -124,8 +124,4 @@ Business Intelligence concepts
 
 Sales & Financial analysis
 
-✅ Conclusion
 
-This project demonstrates how Business Intelligence dashboards can help Shiv Hardware track performance, identify growth opportunities, and support strategic business decisions.
-
-Agar chaho to mai:
