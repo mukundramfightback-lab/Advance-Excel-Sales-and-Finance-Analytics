@@ -25,7 +25,7 @@ Identify Top 5 countries by sales in 2021
 
 Key Insights
 
-Top Products Growth: Products like AQ Electron 4 3600 Desktop Processor and AQ Pen Drive DRC showed strong sales growth.
+Top Product Growth: Product like AQ Electron 4 3600 Desktop Processor  showed strong sales growth.
 
 Division Performance:
 
